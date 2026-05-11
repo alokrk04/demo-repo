@@ -20,4 +20,5 @@ View your app in AI Studio: https://ai.studio/apps/6fce24c4-2cb5-49fa-bbb4-30259
    `npm run dev`
 
 
-This an Demo Repo used for this project 
+This an Demo project used for this repository
+""NEON TERMINAL PORTFOLIO""
